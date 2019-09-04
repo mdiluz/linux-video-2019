@@ -17,9 +17,7 @@ The video will be produced entirely with Open Source video and audio software e.
 I've divided the rules for submitting game videos into MUST, SHOULD and COULD sections. Please add submissions to [this wiki page](https://github.com/mdiluz/linux-video-2019/wiki/Clip-Registry).
 
 ### Rules for Games
-* MUST be at least Silver on ProtonDB or equivalent (see [here](https://wiki.winehq.org/AppDB_Rating_Definitions))
-* SHOULD be at least Gold
-* COULD be Native or under Wine/Proton
+* MUST be Native on Linux, or at least Silver on ProtonDB or equivelant (see [here](https://wiki.winehq.org/AppDB_Rating_Definitions))
 
 ### Rules for Video
 * MUST be recorded yourself (all work will be credited) 
