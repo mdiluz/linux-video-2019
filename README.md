@@ -18,6 +18,8 @@ I've divided the rules for submitting game videos into MUST, SHOULD and COULD se
 
 ### Rules for Games
 * MUST be Native on Linux, or at least Silver on ProtonDB or equivelant (see [here](https://wiki.winehq.org/AppDB_Rating_Definitions))
+* MUST be playable at a stable 30fps at least
+* Should be one of, or be as popular as one of, Steam's [top 1000 games](https://arstechnica.com/gaming/2018/07/steam-data-leak-reveals-precise-player-count-for-thousands-of-games/2/)
 
 ### Rules for Video
 * MUST be recorded yourself (all work will be credited) 
