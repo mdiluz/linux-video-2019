@@ -1,5 +1,5 @@
 # Linux Gaming Montage 2019
-This is a living document describing the production of a sequal to last year's crowdsourced [./Games](https://youtu.be/3U8bLArlRXw) montage to show off where gaming on Linux is at in 2019. You'll find here instructions on how to contribute and rules on what will be accepted.
+This is a living document describing the production of a sequal to last year's crowdsourced [./Games](https://youtu.be/3U8bLArlRXw) montage, this time to show off where gaming on Linux is at in 2019. You'll find here instructions on how to contribute and rules on what will be accepted.
 
 This year, I intend to release two videos. One for a normal upload, like last years, and also a short form social media video, to help spread the word a little further.
 
