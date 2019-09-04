@@ -30,8 +30,5 @@ I've divided the rules for submitting game videos into MUST, SHOULD and COULD se
 * SHOULD not be pre-recorded cutscenes
 * COULD contain game sound
 
-### How to submit a clip
-TBD
-
 #### Repo License
 This repository is shared under the terms of the MIT license
