@@ -14,7 +14,7 @@ The video will be released under a [CC](https://creativecommons.org/licenses/) l
 The video will be produced entirely with Open Source video and audio software e.g. ffmpeg, kdenlive and audacity. It'll be made up of a combination of personally recorded clips and those submitted from anyone who's willing to help.
 
 # Submission rules 
-I've divided the rules for submitting game videos into MUST, SHOULD and COULD sections. Please add submissions to [this wiki page](https://github.com/mdiluz/linux-video-2019/wiki/Game-Clips).
+I've divided the rules for submitting game videos into MUST, SHOULD and COULD sections. Please add submissions to [this wiki page](https://github.com/mdiluz/linux-video-2019/wiki/Clip-Registry).
 
 ### Rules for Games
 MUST be at least Silver on ProtonDB or equivalent (see [here](https://wiki.winehq.org/AppDB_Rating_Definitions))
