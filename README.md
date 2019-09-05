@@ -13,22 +13,8 @@ The video will be released under a [CC](https://creativecommons.org/licenses/) l
 ### Production
 The video will be produced entirely with Open Source video and audio software e.g. ffmpeg, kdenlive and audacity. It'll be made up of a combination of personally recorded clips and those submitted from anyone who's willing to help.
 
-# Submission rules 
-I've divided the rules for submitting game videos into MUST, SHOULD and COULD sections. Please add submissions to [this wiki page](https://github.com/mdiluz/linux-video-2019/wiki/Clip-Registry).
-
-### Rules for Games
-* MUST be Native on Linux, or at least Silver on ProtonDB or equivelant (see [here](https://wiki.winehq.org/AppDB_Rating_Definitions))
-* MUST be playable at a stable 30fps at least
-* SHOULD be one of, or be as popular as one of, Steam's [top 1000 games](https://arstechnica.com/gaming/2018/07/steam-data-leak-reveals-precise-player-count-for-thousands-of-games/2/)
-
-### Rules for Video
-* MUST be recorded yourself (all work will be credited) 
-* MUST be recorded in 1080p
-* MUST not contain game music in audio
-* MUST be between 5 and 20 seconds long
-* SHOULD be taken of an interesting or key gameplay moment
-* SHOULD not be pre-recorded cutscenes
-* COULD contain game sound
+### Contributing
+As with the first video, I'll be crowd-sourcing clips from games I don't own. Please head to [the clip registry](https://github.com/mdiluz/linux-video-2019/wiki/Clip-Registry) for details on how to contribute.
 
 #### Repo License
 This repository is shared under the terms of the MIT license
