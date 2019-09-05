@@ -17,4 +17,4 @@ The video will be produced entirely with Open Source video and audio software e.
 As with the first video, I'll be crowd-sourcing clips from games I don't own. Please head to [the clip registry](https://github.com/mdiluz/linux-video-2019/wiki/Clip-Registry) for details on how to contribute.
 
 #### Repo License
-This repository is shared under the terms of the MIT license
+This repository and wiki is shared under the terms of the MIT license
