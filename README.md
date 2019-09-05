@@ -8,7 +8,7 @@ This year, I intend to release two videos. One for a normal upload, like last ye
 * Short square video for easy sharing on Twitter/Insta or gif/WebM form 1080x1080, max 60 seconds, audio not required
 
 ### Video License
-The video will be released under a [CC](https://creativecommons.org/licenses/) license, the exact form yet to be decided.
+The videos will be released under a [CC](https://creativecommons.org/licenses/) license, the exact form yet to be decided.
 
 ### Production
 The video will be produced entirely with Open Source video and audio software e.g. ffmpeg, kdenlive and audacity. It'll be made up of a combination of personally recorded clips and those submitted from anyone who's willing to help.
